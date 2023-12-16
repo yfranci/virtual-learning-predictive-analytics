@@ -1,6 +1,6 @@
 # Predictive Analytics in Virtual Learning: Machine Learning Approaches to Enhance Student Success and Retention in Higher Education
 
-##Overview
+## Overview
 This repository contains datasets and code for the study "Predictive Analytics in Virtual Learning: Machine Learning Approaches to Enhance Student Success and Retention in Higher Education". The study applies machine learning techniques to predict academic success and dropout rates among higher education students.
 
 ## Contents
@@ -29,7 +29,7 @@ This repository contains datasets and code for the study "Predictive Analytics i
 - Python 3
 - Relevant Python libraries (as listed in the Jupyter Notebook)
 
-# Contributing
+## Contributing
 We welcome contributions and suggestions. Please refer to the contributing guidelines for more information.
 
 # License
