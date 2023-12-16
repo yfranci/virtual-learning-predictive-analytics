@@ -1,0 +1,45 @@
+Datasets (20/80),Features,Random Forest,Decision Tree,Bagging 
+1,Accuracy,0.7604519774,0.6768361582,0.6768361582
+,Hypertuning Best Parameters,"{'max_depth': 20, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 200}","{'max_depth': 10, 'min_samples_leaf': 1, 'min_samples_split': 5}","{'base_estimator': None, 'bootstrap': True, 'bootstrap_features': True, 'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 200}"
+,Crossvalidation, [0.77966102 0.78531073 0.78305085 0.7740113  0.75452489],[0.7299435  0.73107345 0.69943503 0.71412429 0.72624434],[0.76836158 0.77853107 0.78305085 0.77514124 0.7658371 ]
+,Crossvalidation mean,0.775312,0.720164,0.774184
+2,Accuracy,0.1724137931,0.2068965517,0.1724137931
+,Hypertuning Best Parameters,"{'max_depth': None, 'max_features': 'sqrt', 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 100}","{'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 2}","{'base_estimator': None, 'bootstrap': True, 'bootstrap_features': True, 'max_features': 0.8, 'max_samples': 0.8, 'n_estimators': 200}"
+,Crossvalidation,[0.37931034 0.31034483 0.31034483 0.34482759 0.24137931],[0.20689655 0.24137931 0.34482759 0.10344828 0.27586207],[0.34482759 0.27586207 0.27586207 0.4137931  0.31034483]
+,Crossvalidation mean,0.317241,0.234483,0.324138
+3,Accuracy,0.2895,0.271,0.29625
+,Hypertuning Best Parameters,"{'max_depth': 10, 'max_features': 'auto', 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 100}","{'max_depth': 10, 'min_samples_leaf': 1, 'min_samples_split': 5}","{'base_estimator': None, 'bootstrap': True, 'bootstrap_features': True, 'max_features': 0.8, 'max_samples': 1.0, 'n_estimators': 200}"
+,Crossvalidation,[0.3045  0.19775 0.1595  0.241   0.13775],[0.3095  0.1705  0.209   0.24075 0.16425],[0.33875 0.21875 0.22425 0.24625 0.2065 ]
+,Crossvalidation mean,0.2081,0.2188,0.2469
+,,,,
+,,,,
+,,,,
+Datasets (50/50),Features,Random Forest,Decision Tree,Bagging 
+1,Accuracy,0.7604519774,0.6768361582,0.6768361582
+,Hypertuning Best Parameters,"{'max_depth': None, 'max_features': 'auto', 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 100}","{'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 5}","{'base_estimator': None, 'bootstrap': False, 'bootstrap_features': True, 'max_features': 0.8, 'max_samples': 0.8, 'n_estimators': 200}"
+,Crossvalidation,[0.77627119 0.77514124 0.78531073 0.7740113  0.76470588],[0.72881356 0.73559322 0.71073446 0.71638418 0.72737557],[0.77966102 0.77740113 0.7819209  0.78305085 0.76470588]
+,Crossvalidation mean,0.775088,0.72378,0.777348
+2,Accuracy,0.1724137931,0.2068965517,0.1724137931
+,Hypertuning Best Parameters,"{'max_depth': 20, 'max_features': 'sqrt', 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 100}","{'max_depth': None, 'min_samples_leaf': 2, 'min_samples_split': 2}","{'base_estimator': None, 'bootstrap': True, 'bootstrap_features': True, 'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 200}"
+,Crossvalidation,[0.31034483 0.24137931 0.34482759 0.37931034 0.20689655],[0.20689655 0.24137931 0.24137931 0.27586207 0.27586207],[0.24137931 0.20689655 0.31034483 0.4137931  0.27586207]
+,Crossvalidation mean,0.296552,0.248276,0.289655
+3,Accuracy,0.2895,0.271,0.29625
+,Hypertuning Best Parameters,"{'max_depth': 10, 'max_features': 'auto', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 100}","{'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 2}","{'base_estimator': None, 'bootstrap': True, 'bootstrap_features': True, 'max_features': 0.8, 'max_samples': 0.8, 'n_estimators': 200}"
+,Crossvalidation,[0.26825 0.20025 0.1345  0.229   0.11375],[0.3395  0.18    0.237   0.24075 0.19675],[0.34375 0.23625 0.25575 0.26    0.20575]
+,Crossvalidation mean,0.18915,0.2388,0.2603
+,,,,
+,,,,
+,,,,
+Datasets (80/20),Features,Random Forest,Decision Tree,Bagging 
+1,Accuracy,0.7604519774,0.6768361582,0.6768361582
+,Hypertuning Best Parameters,"{'max_depth': None, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 100}","{'max_depth': 10, 'min_samples_leaf': 1, 'min_samples_split': 2}","{'base_estimator': None, 'bootstrap': True, 'bootstrap_features': False, 'max_features': 1.0, 'max_samples': 0.8, 'n_estimators': 200}"
+,Crossvalidation,[0.77288136 0.78418079 0.78983051 0.75932203 0.75791855],[0.72429379 0.73672316 0.71525424 0.71412429 0.72171946],[0.77175141 0.77514124 0.77514124 0.77175141 0.75904977]
+,Crossvalidation mean,0.772827,0.722423,0.770567
+2,Accuracy,0.1724137931,0.2068965517,0.1724137931
+,Hypertuning Best Parameters,"{'max_depth': 10, 'max_features': 'auto', 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 100}","{'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 2}","{'base_estimator': None, 'bootstrap': False, 'bootstrap_features': True, 'max_features': 1.0, 'max_samples': 0.8, 'n_estimators': 100}"
+,Crossvalidation,[0.34482759 0.24137931 0.31034483 0.20689655 0.27586207],[0.20689655 0.27586207 0.20689655 0.24137931 0.24137931],[0.31034483 0.31034483 0.34482759 0.27586207 0.31034483]
+,Crossvalidation mean,0.275862,0.234483,0.310345
+3,Accuracy,0.2895,0.271,0.29625
+,Hypertuning Best Parameters,"{'max_depth': 10, 'max_features': 'auto', 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 200}","{'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 5}","{'base_estimator': None, 'bootstrap': True, 'bootstrap_features': True, 'max_features': 0.8, 'max_samples': 0.8, 'n_estimators': 200}"
+,Crossvalidation,[0.315   0.2085  0.15425 0.239   0.14075],[0.3395  0.179   0.2355  0.2405  0.19725],[0.34775 0.20925 0.24575 0.276   0.19825]
+,Crossvalidation mean,0.2115,0.23835,0.2554

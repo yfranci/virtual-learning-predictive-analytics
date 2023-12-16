@@ -1,0 +1,31 @@
+Data Partition,Best Modeled Dataset,Random Forest,Decision Tree,Bagging
+20/80,1,"Random Forest Accuracy: 0.7649717514124293
+Random Forest Precision: 0.7483652558283503
+Random Forest Recall: 0.7649717514124293
+Random Forest F1 Score: 0.7486887437389115","Decision Tree Accuracy: 0.7220338983050848
+Decision Tree Precision: 0.7183579722763778
+Decision Tree Recall: 0.7220338983050848
+Decision Tree F1 Score: 0.7162544690251587","Bagging Accuracy: 0.7694915254237288
+Bagging Precision: 0.7602415173536216
+DBagging Recall: 0.7220338983050848
+Bagging F1 Score: 0.7566711756996551"
+50/50,1,"Random Forest Accuracy: 0.7590415913200723
+Random Forest Precision: 0.7408642180909727
+Random Forest Recall: 0.7590415913200723
+Random Forest F1 Score: 0.7379859831855847","Decision Tree Accuracy: 0.7029837251356239
+Decision Tree Precision: 0.6919684327557887
+Decision Tree Recall: 0.7029837251356239
+Decision Tree F1 Score: 0.696114345277344","Bagging Accuracy: 0.7581374321880651
+Bagging Precision: 0.7422781736106903
+DBagging Recall: 0.7029837251356239
+Bagging F1 Score: 0.696114345277344"
+80/20,1,"Random Forest Accuracy: 0.7463276836158192
+Random Forest Precision: 0.7183176912551956
+Random Forest Recall: 0.7463276836158192
+Random Forest F1 Score: 0.7171725516364037","Decision Tree Accuracy: 0.6833333333333333
+Decision Tree Precision: 0.6736993423090274
+Decision Tree Recall: 0.6833333333333333
+Decision Tree F1 Score: 0.6775685430639347","Bagging Accuracy: 0.7528248587570622
+Bagging Precision: 0.7372813735945929
+DBagging Recall: 0.6833333333333333
+Bagging F1 Score: 0.6775685430639347"
