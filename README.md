@@ -7,7 +7,7 @@ This repository contains datasets and code for the study "Predictive Analytics i
 1. Datasets: Two datasets used in the study:
    - Student Performance Evaluation
    - Predicting Student Dropout
-3. Code: Jupyter Notebook (COGS118A_Final_Project.ipynb) detailing the implementation of machine learning classifiers.
+3. Code: Jupyter Notebook (StudentSuccessPredictor_Analysis.ipynb) detailing the implementation of machine learning classifiers.
 
 ## Machine Learning Classifiers
 - Random Forest
