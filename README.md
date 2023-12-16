@@ -8,13 +8,16 @@ This repository contains datasets and code for the study "Predictive Analytics i
    - Student Performance Evaluation
    - Predicting Student Dropout
 3. Code: Jupyter Notebook (StudentSuccessPredictor_Analysis.ipynb) detailing the implementation of machine learning classifiers.
+4. Results Datasets:
+  - Model Evaluation
+  - Features per dataset per model
 
 ## Machine Learning Classifiers
 - Random Forest
 - Decision Trees
 - Bagging
 
-##Objectives
+## Objectives
 1. To apply and evaluate the effectiveness of the classifiers in predicting academic performance and dropout rates.
 2. To identify key determinants of academic success and dropout.
    
