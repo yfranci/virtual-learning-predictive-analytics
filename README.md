@@ -4,11 +4,10 @@
 This repository contains datasets and code for the study "Predictive Analytics in Virtual Learning: Machine Learning Approaches to Enhance Student Success and Retention in Higher Education". The study applies machine learning techniques to predict academic success and dropout rates among higher education students.
 
 ## Contents
-1. Datasets: Three datasets used in the study:
-1.1 Student Performance Evaluation
-1.2 Predicting Student Dropout
-1.3 Student Interaction with Virtual Learning Environments
-2. Code: Jupyter Notebook (COGS118A_Final_Project.ipynb) detailing the implementation of machine learning classifiers.
+1. Datasets: Two datasets used in the study:
+   - Student Performance Evaluation
+   - Predicting Student Dropout
+3. Code: Jupyter Notebook (COGS118A_Final_Project.ipynb) detailing the implementation of machine learning classifiers.
 
 ## Machine Learning Classifiers
 - Random Forest
